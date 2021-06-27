@@ -1,0 +1,16 @@
+---
+id: 772
+title: We don’t need a masjid or mandir, all we need is peace and prosperity in this country
+date: 2021-06-04T06:43:16+00:00
+author: nimda
+layout: revision
+guid: http://revolutioners.com/?p=772
+permalink: /?p=772
+---
+Today will mark as a historical day in Indian history as we get verdict on Babri Masjid. Allahabad High Court, today will be settling the dispute over the Ram Janmabhoomi – Babri Masjid, which has remained unresolved for decades or I must say centuries? &nbsp;Everyone might be waiting for the verdict eagerly but I am not. I don’t think it makes any sense to announce verdict just before the CWG 2010. Indian Government is already facing criticism with the common wealth games. And the verdict at this point of time could really make things worse. What if the verdict stirs up some violence and players and authorities gets hurt? Military would not be able to do anything if 2-3 lac people come out of their houses and try to raid the CWG venue. The same thing happened during the demolition of the Babri Masjid. I really wish this verdict could have been postponed. I feel this verdict date has been ill planned when government knew that Delhi would be hosting Common Wealth Games in this month. Everyone is speculating social unrest in the country as the words come out of the court this afternoon.
+
+<span id="more-2489"></span>I was really young when the Babri Masjid was demolished in 1992. We did not have cable connection at our place at that time and moreover I was not concerned about what happened in this world. Now that I know all the events that happened it does not really make any sense. Believe me I had not watched the demolition video till today. I just watched it on Youtube this morning. Its outrageous and unbelievable how mean politics can be. OK Let me recall the whole dispute in short. As per the experts, there used to be a Ram Mandir where Babri Mosque was built on Babar’s order in 1527 and named it **Masjid-i Janmasthan** (“mosque of the birthplace”) acknowledging the site as the birthplace of the Hindu deity, Lord Rama. Ever since then both Hindu and Muslims used to worship in that mosque. But late in 18<sup>th</sup> century Hindus were banned for worshiping in the mosque. Various Hindu and Muslim parties filed a case in court since 1900-2000 claiming the land. Then in 1992 the mosque was demolished by 2 million Hindu extremists gathered in shilanyas (stone-laying ceremony) at the disputed land. Before and after the demolition of the mosque Archaeological Survey of India did some in depth study of the structure and rubble which indicated a large Hindu building existed where the mosque was. That is whole story short.
+
+I feel a normal Indian citizen whether Hindu or Muslim would not have any comprehension problem with the verdict. Its only our political parties who will take undue advantage of the verdict and try to create social unrest in the country. And at this point of time when we have a big event (Common Wealth Games) lined up in the coming month it gives the bad elements all the more reason to create problems.
+
+**I just want to convey this message to the government that we don’t need a Mosque or Mandir on that land. All we need is peace. So make a hospital, school, library or anything on that land which will benefit all religion and community.**
