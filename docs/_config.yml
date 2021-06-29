@@ -1,8 +1,8 @@
 baseurl: "/"
 title: "Stackbit Fresh Theme"
-init_js: "js/init.js"
-page_load_js: "js/page-load.js"
-page_unload_js: "js/page-unload.js"
+init_js: "static/js/init.js"
+page_load_js: "static/js/page-load.js"
+page_unload_js: "static/js/page-unload.js"
 params:
   layout_style: overflow
   palette: blue
@@ -58,7 +58,7 @@ params:
         new_window: true
   footer:
     content: >-
-      &copy; Stackbit. All rights reserved. This Jamstack site was created with <a href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank" rel="noopener">Stackbit</a>. Create yours <a href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer" target="_blank" rel="noopener">now</a>
+      &copy; revolutioners. All rights reserved. 
 sass:
   input_file: sass/main.scss
   output_file: css/main.css
