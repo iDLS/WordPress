@@ -1,5 +1,5 @@
 baseurl: "/"
-title: "Stackbit Fresh Theme"
+title: "revolutioners"
 init_js: "static/js/init.js"
 page_load_js: "static/js/page-load.js"
 page_unload_js: "static/js/page-unload.js"
@@ -7,7 +7,7 @@ params:
   layout_style: overflow
   palette: blue
   header:
-    title: "Stackbit Fresh"
+    title: "revolutioners"
     tagline: Header Tagline
     profile_img: images/avatar.png
     profile_img_alt: Author avatar
