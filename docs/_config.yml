@@ -1,4 +1,4 @@
-baseurl: "http://idls.github.io/rloveutioners.com/"
+baseurl: "/"
 title: "revolutioners"
 init_js: "static/js/init.js"
 page_load_js: "static/js/page-load.js"
