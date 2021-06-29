@@ -58,12 +58,10 @@ params:
         new_window: true
   footer:
     content: >-
-      &copy; revolutioners. All rights reserved. 
+      &copy; revolutioners. All rights reserved.
 sass:
   input_file: sass/main.scss
   output_file: css/main.css
   indentWidth: 4
   outputStyle: nested
   precision: 10
-
-theme: jekyll-theme-modernist
